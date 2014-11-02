@@ -12,3 +12,4 @@ github_username:  josesayago
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
