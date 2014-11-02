@@ -2,7 +2,7 @@
 layout: post
 title:  "Learning: Do you have what it takes?"
 date:   2014-11-02 04:47:00
-categories: thoughts
+categories: learning
 ---
 
 Learning is not an easy endeavor, in order for one to succeed it is necessary to sacrifice something. Time and energy are limited and scarce resources, success cannot be achieved if they are not properly invested to reach one goals.
