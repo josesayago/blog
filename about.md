@@ -18,5 +18,5 @@ For further details about me, please visit my profile on [StackOverflow Careers]
 [Single Latest Posts Lite]: http://wordpress.org/extend/plugins/single-latest-posts-lite/
 [Single Latest Posts]: 		http://single-latest-posts.laelitenetwork.com
 [StackOverflow Careers]: 	https://careers.stackoverflow.com/
-[8 Elite]:					http://8elite.com
+[8ª Elite]:					http://8elite.com
 [UX-U]:						http://ux-u.com
