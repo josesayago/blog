@@ -13,9 +13,11 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$text-color:       #333;
+$link-color:	   #82cc33;
+$background-color: #fff;
+$topbottom-background: #fdfdfd;
+$brand-color:      $link-color;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -47,3 +49,6 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+.hcolor {width: 100%; position: relative; height: 0.3em; background: -webkit-linear-gradient(left top, #e75239 0%, #e75239 12.5%, #ff961c 12.5%, #ff961c 25%, #ffcc27 25%, #ffcc27 37.5%, #fce62f 37.5%, #fce62f 50%, #cde35b 50%, #cde35b 62.5%, #82cc33 62.5%, #82cc33 75%, #41bece 75%, #41bece 87.5%, #049cdb 87.5%, #049cdb 100%) repeat scroll 50% 0px transparent; background: linear-gradient(left top, #e75239 0%, #e75239 12.5%, #ff961c 12.5%, #ff961c 25%, #ffcc27 25%, #ffcc27 37.5%, #fce62f 37.5%, #fce62f 50%, #cde35b 50%, #cde35b 62.5%, #82cc33 62.5%, #82cc33 75%, #41bece 75%, #41bece 87.5%, #049cdb 87.5%, #049cdb 100%) repeat scroll 50% 0px transparent; background: -ms-linear-gradient(left top, #e75239 0%, #e75239 12.5%, #ff961c 12.5%, #ff961c 25%, #ffcc27 25%, #ffcc27 37.5%, #fce62f 37.5%, #fce62f 50%, #cde35b 50%, #cde35b 62.5%, #82cc33 62.5%, #82cc33 75%, #41bece 75%, #41bece 87.5%, #049cdb 87.5%, #049cdb 100%) repeat scroll 50% 0px transparent; background: -moz-linear-gradient(left top, #e75239 0%, #e75239 12.5%, #ff961c 12.5%, #ff961c 25%, #ffcc27 25%, #ffcc27 37.5%, #fce62f 37.5%, #fce62f 50%, #cde35b 50%, #cde35b 62.5%, #82cc33 62.5%, #82cc33 75%, #41bece 75%, #41bece 87.5%, #049cdb 87.5%, #049cdb 100%) repeat scroll 50% 0px transparent; box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.25) inset; }
+.fcolor {width: 80%; position: relative; height: 0.1em; background: -webkit-linear-gradient(left top, #e75239 0%, #e75239 12.5%, #ff961c 12.5%, #ff961c 25%, #ffcc27 25%, #ffcc27 37.5%, #fce62f 37.5%, #fce62f 50%, #cde35b 50%, #cde35b 62.5%, #82cc33 62.5%, #82cc33 75%, #41bece 75%, #41bece 87.5%, #049cdb 87.5%, #049cdb 100%) repeat scroll 50% 0px transparent; background: linear-gradient(left top, #e75239 0%, #e75239 12.5%, #ff961c 12.5%, #ff961c 25%, #ffcc27 25%, #ffcc27 37.5%, #fce62f 37.5%, #fce62f 50%, #cde35b 50%, #cde35b 62.5%, #82cc33 62.5%, #82cc33 75%, #41bece 75%, #41bece 87.5%, #049cdb 87.5%, #049cdb 100%) repeat scroll 50% 0px transparent; background: -ms-linear-gradient(left top, #e75239 0%, #e75239 12.5%, #ff961c 12.5%, #ff961c 25%, #ffcc27 25%, #ffcc27 37.5%, #fce62f 37.5%, #fce62f 50%, #cde35b 50%, #cde35b 62.5%, #82cc33 62.5%, #82cc33 75%, #41bece 75%, #41bece 87.5%, #049cdb 87.5%, #049cdb 100%) repeat scroll 50% 0px transparent; background: -moz-linear-gradient(left top, #e75239 0%, #e75239 12.5%, #ff961c 12.5%, #ff961c 25%, #ffcc27 25%, #ffcc27 37.5%, #fce62f 37.5%, #fce62f 50%, #cde35b 50%, #cde35b 62.5%, #82cc33 62.5%, #82cc33 75%, #41bece 75%, #41bece 87.5%, #049cdb 87.5%, #049cdb 100%) repeat scroll 50% 0px transparent; box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.25) inset;margin: 0 auto; }

@@ -4,8 +4,19 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I am a Web Consultant usually wearing many hats: Entrepreneur, Programmer, Free Software and Open Source Advocate, Web Developer, Systems Administrator, to make it short Geek. I was born and raised in Venezuela and had the wonderful opportunity of studying and living in France for three years.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I spend most of my time developing web applications, WordPress is my CMS of choise for which I have developed a couple of plugins widely used worldwide. You are invited to check them out: [Network Latest Posts], [Single Latest Posts Lite] and [Single Latest Posts]. My articles about technology and web development are published on [8 Elite] and [UX-U] (soon).
+
+Further Information
+-
+
+For further details about me, please visit my profile on [StackOverflow Careers].
+
+[Network Latest Posts]: 	http://wordpress.org/extend/plugins/network-latest-posts/
+[Single Latest Posts Lite]: http://wordpress.org/extend/plugins/single-latest-posts-lite/
+[Single Latest Posts]: 		http://single-latest-posts.laelitenetwork.com
+[StackOverflow Careers]: 	https://careers.stackoverflow.com/
+[8 Elite]:					http://8elite.com
+[UX-U]:						http://ux-u.com

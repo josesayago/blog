@@ -1,10 +1,11 @@
 # Site settings
-title: José SAYAGO - Personal Blog
+title: José SAYAGO
+subtitle: Personal Blog
 email: jose.sayago@laelite.info
 description: > # this means to ignore newlines until "baseurl:"
-  This is the place where I post my thoughts, all opinions expressed 
-  here are my own personal views, and do not represent the views of 
-  any company or organisation with which I may be affiliated.
+  All opinions expressed here are my own personal views, and do 
+  not represent the views of any company or organisation with 
+  which I may be affiliated.
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 twitter_username: joseluis_sayago
@@ -13,3 +14,4 @@ github_username:  josesayago
 # Build settings
 markdown: kramdown
 highlighter: pygments
+permalink: pretty
