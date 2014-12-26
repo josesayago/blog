@@ -5,7 +5,7 @@ date:   2014-12-26 01:22:00
 categories: movies
 ---
 
-![Star Wars]({{ site.url }}/assets/starwars.jpg)
+![Star Wars]({{ base.url }}/assets/starwars.jpg)
 
 Star Wars is one of those movies that makes you feel happy, excited, disappointed, angry and confused at the same time. If you were born in mid 70's - 80's you then maybe watched the sequels first. At the time everything seemed right and after some thinking it actually made kind of sense.
 
