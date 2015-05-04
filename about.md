@@ -17,6 +17,6 @@ For further details about me, please visit my profile on [StackOverflow Careers]
 [Network Latest Posts]: 	http://wordpress.org/extend/plugins/network-latest-posts/
 [Single Latest Posts Lite]: http://wordpress.org/extend/plugins/single-latest-posts-lite/
 [Single Latest Posts]: 		http://single-latest-posts.laelitenetwork.com
-[StackOverflow Careers]: 	https://careers.stackoverflow.com/
+[StackOverflow Careers]: 	https://careers.stackoverflow.com/josesayago
 [8ª Elite]:					http://8elite.com
 [WP Latino]: 				http://wplatino.com
